@@ -10,4 +10,3 @@ xterm $command || \
 bash $command
 wait
 
-rm $DIR/Double\ click\ to\ start\ install.sh
